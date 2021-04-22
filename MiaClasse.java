@@ -2,14 +2,20 @@
 
 class MiaClasse {
 	
-	String nome;
+	String nameClass;
+	String ciccio;
 	
-	public MiaClasse(String nome) {
-		this.nome = nome;
+	public MiaClasse(String nameClass, String ciccio) {
+		this.ciccio = ciccio;
+		this.nameClass = nameClass;
 	}
 	
 	public String getNome() {
-		return this.nome;
+		return this.nameClass;
+	}
+	
+	public String getCiccio() {
+		return ciccio;
 	}
 	
 }
