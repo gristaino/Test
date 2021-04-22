@@ -31,15 +31,20 @@ public MiaClasse(String nameClass, String ciccio) {
 	}public MiaClasse(String nameClass, String ciccio) {
 		this.ciccio = ciccio;
 		this.nameClass = nameClass;
+	Qua ci mettiamo una scritta giusto per
 	}public MiaClasse(String nameClass, String ciccio) {
 		this.ciccio = ciccio;
 		this.nameClass = nameClass;
 	}	String ciccio) {
+		QUa sto facendo le modifiche
+		ok???????
 		this.ciccio = ciccio;
 		this.nameClass = nameClass;
 		fdsfdfjkakdfds
 			dasfadsf
 			dsaf
+			
+			QUa non so perchè non c'è nukla
 			dsf
 			dsf
 			d
@@ -49,12 +54,14 @@ public MiaClasse(String nameClass, String ciccio) {
 			faf
 	}
 	
+	asd
 	public String getNome() {
 		return this.nameClass;
 	public String getNome() {
 		return this.nameClass;
 	public String getNome() {
 		return this.nameClass;
+		Tanto per
 	public String getNome() {
 		return this.nameClass;
 	public String getNome() {
