@@ -26,15 +26,20 @@ public MiaClasse(String nameClass, String ciccio) {
 		this.ciccio = ciccio;
 		this.nameClass = nameClass;
 	}public MiaClasse(String nameClass, String ciccio) {
-		this.ciccio = ciccio;
+		this.ciccio = ciccio;+
+		Qui iniziano le mie modifiche
+			se è sbagliato qualcosa fammi sapere;
 		this.nameClass = nameClass;
 	}public MiaClasse(String nameClass, String ciccio) {
 		this.ciccio = ciccio;
 		this.nameClass = nameClass;
+	Qua dovrebbero iniziare le tue modifiche
+		metti le tue modifiche qua
 	}public MiaClasse(String nameClass, String ciccio) {
 		this.ciccio = ciccio;
 		this.nameClass = nameClass;
 	}	String ciccio) {
+		Qua scrivo tanto per
 		this.ciccio = ciccio;
 		this.nameClass = nameClass;
 		fdsfdfjkakdfds
