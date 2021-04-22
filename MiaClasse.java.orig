@@ -29,21 +29,26 @@ public MiaClasse(String nameClass, String ciccio) {
 		this.ciccio = ciccio;+
 		Qui iniziano le mie modifiche
 			se è sbagliato qualcosa fammi sapere;
-		this.ciccio = ciccio;
 		this.nameClass = nameClass;
 	}public MiaClasse(String nameClass, String ciccio) {
 		this.ciccio = ciccio;
 		this.nameClass = nameClass;
+<<<<<<< HEAD
 	Qua dovrebbero iniziare le tue modifiche
-	Qua ci mettiamo una scritta giusto per
 		metti le tue modifiche qua
+=======
+	Qua ci mettiamo una scritta giusto per
+>>>>>>> gristaino
 	}public MiaClasse(String nameClass, String ciccio) {
 		this.ciccio = ciccio;
 		this.nameClass = nameClass;
 	}	String ciccio) {
+<<<<<<< HEAD
 		Qua scrivo tanto per
+=======
 		QUa sto facendo le modifiche
 		ok???????
+>>>>>>> gristaino
 		this.ciccio = ciccio;
 		this.nameClass = nameClass;
 		fdsfdfjkakdfds
