@@ -77,5 +77,15 @@ public MiaClasse(String nameClass, String ciccio) {
 	public String getCiccio() {
 		return ciccio;
 	}
+			
+			
+			asdaasdas
+				asdas
+				d
+				a
+				ads
+				asd
+				asd
+				
 	
 }
