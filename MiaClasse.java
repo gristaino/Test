@@ -9,11 +9,6 @@ class MiaClasse {
 		this.ciccio = ciccio;
 		this.nameClass = nameClass;
 	}
-publ
-				a
-				ads
-				asd
-				asd
 				
 	
 }
