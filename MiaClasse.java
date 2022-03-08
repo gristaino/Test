@@ -10,5 +10,11 @@ class MiaClasse {
 		this.nameClass = nameClass;
 	}
 
-	
+	asdasdasdasasasdasdad
+	asdasdasdasasasdasdadasdasdasdasasasdasdad
+	asdasdasdasasasdasdad
+	asdasdasdasasasdasdadasdasdasdasasasdasdadasdasdasdasasasdasdad
+	asdasdasdasasasdasdad
+	asdasdasdasasasdasdad
+	asdasdasdasasasdasdad
 }
