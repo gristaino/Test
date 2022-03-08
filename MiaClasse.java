@@ -10,5 +10,5 @@ class MiaClasse {
 		this.nameClass = nameClass;
 	}
 
-	
+	asdasdasdasasasdasdad
 }
