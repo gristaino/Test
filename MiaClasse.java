@@ -11,4 +11,10 @@ class MiaClasse {
 	}
 
 	asdasdasdasasasdasdad
+	asdasdasdasasasdasdadasdasdasdasasasdasdad
+	asdasdasdasasasdasdad
+	asdasdasdasasasdasdadasdasdasdasasasdasdadasdasdasdasasasdasdad
+	asdasdasdasasasdasdad
+	asdasdasdasasasdasdad
+	asdasdasdasasasdasdad
 }
