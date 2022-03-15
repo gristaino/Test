@@ -8,6 +8,10 @@ class MiaClasse {
 	public MiaClasse(String nameClass,public MiaClasse(String nameClass, String ciccio) {
 		this.ciccio = ciccio;
 		this.nameClass = nameClass;
+		
+		REVERTOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+		
+		
 	}
 public MiaClasse(String nameClass, String ciccio) {
 		this.ciccio = ciccio;adsf
